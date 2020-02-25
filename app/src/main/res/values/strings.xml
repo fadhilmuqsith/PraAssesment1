@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PraAssesment1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="hitung">Hitung</string>
+    <string name="keliling">Keliling =</string>
+    <string name="luas">Luas =</string>
+    <string name="_0">0</string>
+    <string name="share">Share</string>
+    <string name="alas">Alas</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="d3rpla_4202">D3RPLA-4202</string>
+    <string name="_6706184048">6706184048</string>
+    <string name="muh_fadhil_muqsith">Muh Fadhil Muqsith</string>
+    <string name="about">About</string>
+</resources>
